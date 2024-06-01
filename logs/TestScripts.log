@@ -1,0 +1,38 @@
+2024-06-01 18:15:36 INFO  SwagLabs:43 - ************ Launch Chrome Browser*********
+2024-06-01 18:15:43 INFO  SwagLabs:47 - ************ BookMyShow Application launch*********
+2024-06-01 18:15:45 INFO  SwagLabs:55 - ************ Application Title Verify SuccessFully*********
+2024-06-01 18:26:13 INFO  SwagLabs:44 - ************ Launch Chrome Browser*********
+2024-06-01 18:26:19 INFO  SwagLabs:48 - ************ BookMyShow Application launch*********
+2024-06-01 18:26:22 INFO  SwagLabs:56 - ************ Application Title Verify SuccessFully*********
+2024-06-01 18:29:59 INFO  SwagLabs:44 - ************ Launch Chrome Browser*********
+2024-06-01 18:30:04 INFO  SwagLabs:48 - ************ BookMyShow Application launch*********
+2024-06-01 18:30:09 INFO  SwagLabs:57 - ************ Application Title Verify SuccessFully*********
+2024-06-01 18:31:24 INFO  SwagLabs:44 - ************ Launch Chrome Browser*********
+2024-06-01 18:31:26 INFO  SwagLabs:48 - ************ BookMyShow Application launch*********
+2024-06-01 18:31:33 INFO  SwagLabs:57 - ************ Application Title Verify SuccessFully*********
+2024-06-01 19:44:05 INFO  BookMyShow:43 - ************ Launch Chrome Browser*********
+2024-06-01 19:44:08 INFO  BookMyShow:47 - ************ BookMyShow Application launch*********
+2024-06-01 19:44:14 INFO  BookMyShow:56 - ************ Application Title Verify SuccessFully*********
+2024-06-01 19:48:50 INFO  BookMyShow:43 - ************ Launch Chrome Browser*********
+2024-06-01 19:48:57 INFO  BookMyShow:47 - ************ BookMyShow Application launch*********
+2024-06-01 19:49:02 INFO  BookMyShow:56 - ************ Application Title Verify SuccessFully*********
+2024-06-01 20:45:23 INFO  BookMyShow:43 - ************ Launch Chrome Browser*********
+2024-06-01 20:45:26 INFO  BookMyShow:47 - ************ BookMyShow Application launch*********
+2024-06-01 20:45:31 INFO  BookMyShow:56 - ************ Application Title Verify SuccessFully*********
+2024-06-01 20:47:39 INFO  BookMyShow:43 - ************ Launch Chrome Browser*********
+2024-06-01 20:47:45 INFO  BookMyShow:47 - ************ BookMyShow Application launch*********
+2024-06-01 20:47:49 INFO  BookMyShow:56 - ************ Application Title Verify SuccessFully*********
+2024-06-01 21:02:31 INFO  BookMyShow:43 - ************ Launch Chrome Browser*********
+2024-06-01 21:02:39 INFO  BookMyShow:47 - ************ BookMyShow Application launch*********
+2024-06-01 21:02:45 INFO  BookMyShow:57 - ************ Application Title Verify SuccessFully*********
+2024-06-01 23:34:47 INFO  BookMyShow:43 - ************ Launch Chrome Browser*********
+2024-06-01 23:35:23 INFO  BookMyShow:47 - ************ BookMyShow Application launch*********
+2024-06-01 23:35:29 INFO  BookMyShow:57 - ************ Application Title Verify SuccessFully*********
+2024-06-01 23:35:31 INFO  BookMyShow:64 - ************User Movie click successfully*********
+2024-06-01 23:35:34 INFO  BookMyShow:67 - ************User Movie verified*********
+2024-06-02 00:06:15 INFO  BookMyShow:46 - ************ Launch Chrome Browser*********
+2024-06-02 00:06:23 INFO  BookMyShow:50 - ************ BookMyShow Application launch*********
+2024-06-02 00:06:29 INFO  BookMyShow:59 - ************ Application Title Verify SuccessFully*********
+2024-06-02 00:06:31 INFO  BookMyShow:66 - ************User Movie click successfully*********
+2024-06-02 00:06:34 INFO  BookMyShow:69 - ************User Movie verified*********
+2024-06-02 00:06:40 INFO  BookMyShow:78 - ************Book Tickets Button click successfully*********

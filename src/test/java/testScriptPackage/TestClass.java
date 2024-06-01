@@ -54,6 +54,7 @@ public class TestClass extends BaseClass {
 			sendKeysMethod(pageObjectClass.getPlace(), Keys.ENTER);
 			} catch(Exception e) {e.printStackTrace();}
 			staticWaitMethod(3000);
+			System.out.println(driver.getTitle());
 			assertSoft.assertEquals(driver.getTitle(), readPropertyFile("Title"));
 			assertSoft.assertTrue(isdisplayedMethod(pageObjectClass.getActualLocation()), "Application not selected the User Location");
 			log.info("************ Application Title Verify SuccessFully*********");

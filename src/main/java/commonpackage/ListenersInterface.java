@@ -17,13 +17,14 @@ public class ListenersInterface implements ITestListener {
 	
 	public void onStart(ITestContext context) {
 		sparkReport = new ExtentSparkReporter(System.getProperty("user.dir") + "/MyReport/report.html");
-		sparkReport.config().setDocumentTitle("Automation Testing");
+		sparkReport.config().setDocumentTitle("Test Suite Report");
 		sparkReport.config().setReportName("Functional Test case");
-		sparkReport.config().setTheme(Theme.STANDARD);
+		sparkReport.config().setTheme(Theme.DARK);
 		
 		extent = new ExtentReports();
 		extent.attachReporter(sparkReport);		
-		extent.setSystemInfo("Environment", "");
+		extent.setSystemInfo("Environment", "Prod");
+		extent.setSystemInfo("Application", "TicketNew");
 	}
 	
 	public void onTestSuccess(ITestResult Result)  {

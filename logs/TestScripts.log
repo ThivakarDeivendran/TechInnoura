@@ -48,3 +48,14 @@
 2024-06-02 13:42:52 INFO  TicketNew:102 - ************Book Ticket button display*********
 2024-06-02 13:42:54 INFO  TicketNew:106 - ************?152.56*********
 2024-06-02 13:42:54 INFO  TicketNew:107 - ************Ticket 1 X ?152.56*********
+2024-06-02 15:43:47 INFO  TicketNew:40 - ************ Launch Chrome Browser*********
+2024-06-02 15:43:52 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-02 15:43:58 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-02 15:44:00 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-02 15:44:09 INFO  TicketNew:71 - ************User Movie verified*********
+2024-06-02 15:44:13 INFO  TicketNew:82 - ************Movie Date Selected Successfully*********
+2024-06-02 15:44:17 INFO  TicketNew:89 - ************User Movie Theatre and timing selected Successfully*********
+2024-06-02 15:44:24 INFO  TicketNew:101 - ************User seat selected Successfully*********
+2024-06-02 15:44:29 INFO  TicketNew:109 - ************Book Ticket button display*********
+2024-06-02 15:44:31 INFO  TicketNew:112 - ************?152.56*********
+2024-06-02 15:44:31 INFO  TicketNew:113 - ************Ticket 1 X ?152.56*********

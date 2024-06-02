@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testScriptPackage.TestClass"/>
+      <class name="testScriptPackage.TicketNewTestClass"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

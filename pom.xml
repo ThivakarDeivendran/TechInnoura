@@ -20,7 +20,7 @@
   				<version>2.18.1</version>
   				<configuration>
   					<suiteXmlFiles>
-  						<suiteXmlFile></suiteXmlFile>
+  						<suiteXmlFile>BookMyShow.xml</suiteXmlFile>
   					</suiteXmlFiles>
   				</configuration>
   			</plugin>

@@ -26,12 +26,10 @@ public class TestClass extends BaseClass {
 			public static PageObjectClass pageObjectClass;
 			static SoftAssert assertSoft = new SoftAssert();
 			public static Logger log;
-			
-			
-			
+						
 			@BeforeSuite
 			public static Logger logger() {
-				log = Logger.getLogger("BookMyShow");
+				log = Logger.getLogger("TicketNew");
 				PropertyConfigurator.configure("log4j.properties");
 				log.setLevel(Level.DEBUG);
 				return log;
@@ -45,6 +43,8 @@ public class TestClass extends BaseClass {
 			staticWaitMethod(2000);
 			log.info("************ Launch Chrome Browser*********");
 			maximizeWindowMethod();
+			deleteAllCookiesMethod();
+			staticWaitMethod(2000);
 			getBrowserMethod(readPropertyFile("URL"));
 			staticWaitMethod(2000);
 			log.info("************ BookMyShow Application launch*********");

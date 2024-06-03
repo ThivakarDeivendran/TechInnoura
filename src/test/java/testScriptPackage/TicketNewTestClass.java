@@ -37,7 +37,7 @@ public static void titleMethod() throws IOException {
 	driver = launchBrowserMethod(readPropertyFile("Browser"));
 	pageObjectClass= new PageTicketNew(driver);
 	staticWaitMethod(2000);
-	log.info("************ Launch Chrome Browser*********");
+	log.info("************ Launch"+readPropertyFile("Browser")+"Browser*********");
 	maximizeWindowMethod();
 	deleteAllCookiesMethod();
 	staticWaitMethod(2000);
@@ -66,7 +66,6 @@ public static void chooseMovieMethod() throws IOException {
 	staticWaitMethod(2000);
 	pageObjectClass.setUserMovie(readPropertyFile("MovieName"));
 	staticWaitMethod(3000);
-	takesScreenShotMethod();
 	assertSoft.assertEquals(getTextMethod(pageObjectClass.getSelectedMovie()),readPropertyFile("MovieName"), "User Movie is not Clicked");
 	log.info("************User Movie verified*********");
 	
@@ -112,8 +111,8 @@ public static void bookTicketConfirmMethod() throws Exception {
 	log.info("************"+getTextMethod(pageObjectClass.getBookTicketPrice())+"*********");
 	log.info("************"+getTextMethod(pageObjectClass.getBookTicketCount())+"*********");
 	clickMethod(pageObjectClass.getBookTicketButton());
-	takesScreenShotMethod();
 	staticWaitMethod(5000);
+	takesScreenShotMethod();
 	assertSoft.assertAll();
 }
 

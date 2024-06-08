@@ -61,10 +61,12 @@ public static void chooseMovieMethod() throws IOException {
 	clickMethod(pageObjectClass.getMovieLanguage());
 	takesScreenShotMethod();
 	log.info("************User Movie Language Select successfully*********");
-	staticWaitMethod(3000);
-	clickMethod(pageObjectClass.getViewAllButton());
-	staticWaitMethod(2000);
+	staticWaitMethod(5000);
+//	clickMethod(pageObjectClass.getViewAllButton());
+	staticWaitMethod(5000);
 	pageObjectClass.setUserMovie(readPropertyFile("MovieName"));
+	staticWaitMethod(3000);
+	clickMethod(pageObjectClass.getUserMovie());
 	staticWaitMethod(3000);
 	assertSoft.assertEquals(getTextMethod(pageObjectClass.getSelectedMovie()),readPropertyFile("MovieName"), "User Movie is not Clicked");
 	log.info("************User Movie verified*********");

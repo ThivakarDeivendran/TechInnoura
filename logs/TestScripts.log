@@ -1,0 +1,87 @@
+2024-06-03 16:14:31 INFO  TicketNew:40 - ************ LaunchChromeBrowser*********
+2024-06-03 16:14:38 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 16:14:47 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-03 16:14:50 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-03 16:14:58 INFO  TicketNew:70 - ************User Movie verified*********
+2024-06-03 16:15:02 INFO  TicketNew:81 - ************Movie Date Selected Successfully*********
+2024-06-03 16:15:07 INFO  TicketNew:88 - ************User Movie Theatre and timing selected Successfully*********
+2024-06-03 16:18:14 INFO  TicketNew:40 - ************ LaunchChromeBrowser*********
+2024-06-03 16:18:20 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 16:18:28 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-03 16:18:31 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-03 16:18:44 INFO  TicketNew:70 - ************User Movie verified*********
+2024-06-03 16:18:48 INFO  TicketNew:81 - ************Movie Date Selected Successfully*********
+2024-06-03 16:18:53 INFO  TicketNew:88 - ************User Movie Theatre and timing selected Successfully*********
+2024-06-03 16:19:41 INFO  TicketNew:40 - ************ LaunchEdgeBrowser*********
+2024-06-03 16:19:51 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 16:19:59 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-03 16:20:02 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-03 16:20:15 INFO  TicketNew:70 - ************User Movie verified*********
+2024-06-03 16:20:20 INFO  TicketNew:81 - ************Movie Date Selected Successfully*********
+2024-06-03 16:20:24 INFO  TicketNew:88 - ************User Movie Theatre and timing selected Successfully*********
+2024-06-03 16:20:30 INFO  TicketNew:100 - ************User seat selected Successfully*********
+2024-06-03 16:20:36 INFO  TicketNew:108 - ************Book Ticket button display*********
+2024-06-03 16:20:38 INFO  TicketNew:111 - ************?152.56*********
+2024-06-03 16:20:38 INFO  TicketNew:112 - ************Ticket 1 X ?152.56*********
+2024-06-03 19:09:10 INFO  TicketNew:44 - ************ Launch Chrome Browser*********
+2024-06-03 19:09:19 INFO  TicketNew:50 - ************ BookMyShow Application launch*********
+2024-06-03 19:09:24 INFO  TicketNew:60 - ************ Application Title Verify SuccessFully*********
+2024-06-03 19:09:27 INFO  TicketNew:67 - ************User Movie click successfully*********
+2024-06-03 19:09:30 INFO  TicketNew:70 - ************User Movie verified*********
+2024-06-03 19:09:35 INFO  TicketNew:79 - ************Book Tickets Button click successfully*********
+2024-06-03 19:10:01 INFO  TicketNew:40 - ************ LaunchEdgeBrowser*********
+2024-06-03 19:10:08 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 19:10:13 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-03 19:10:16 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-03 19:10:30 INFO  TicketNew:70 - ************User Movie verified*********
+2024-06-03 19:10:34 INFO  TicketNew:81 - ************Movie Date Selected Successfully*********
+2024-06-03 19:10:38 INFO  TicketNew:88 - ************User Movie Theatre and timing selected Successfully*********
+2024-06-03 19:10:45 INFO  TicketNew:100 - ************User seat selected Successfully*********
+2024-06-03 19:10:50 INFO  TicketNew:108 - ************Book Ticket button display*********
+2024-06-03 19:10:52 INFO  TicketNew:111 - ************?152.56*********
+2024-06-03 19:10:52 INFO  TicketNew:112 - ************Ticket 1 X ?152.56*********
+2024-06-03 19:11:23 INFO  TicketNew:40 - ************ LaunchEdgeBrowser*********
+2024-06-03 19:11:29 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 19:11:35 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-03 19:11:38 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-03 19:11:51 INFO  TicketNew:70 - ************User Movie verified*********
+2024-06-03 19:11:55 INFO  TicketNew:81 - ************Movie Date Selected Successfully*********
+2024-06-03 19:12:00 INFO  TicketNew:88 - ************User Movie Theatre and timing selected Successfully*********
+2024-06-03 19:12:06 INFO  TicketNew:100 - ************User seat selected Successfully*********
+2024-06-03 19:12:11 INFO  TicketNew:108 - ************Book Ticket button display*********
+2024-06-03 19:12:13 INFO  TicketNew:111 - ************?152.56*********
+2024-06-03 19:12:14 INFO  TicketNew:112 - ************Ticket 1 X ?152.56*********
+2024-06-03 19:47:00 INFO  TicketNew:40 - ************ LaunchEdgeBrowser*********
+2024-06-03 19:47:05 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 19:50:33 INFO  TicketNew:40 - ************ LaunchchromeBrowser*********
+2024-06-03 19:50:37 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 19:56:22 INFO  TicketNew:40 - ************ LaunchchromeBrowser*********
+2024-06-03 19:56:26 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 20:13:04 INFO  TicketNew:40 - ************ LaunchchromeBrowser*********
+2024-06-03 20:13:08 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 20:15:42 INFO  TicketNew:40 - ************ LaunchChromeBrowser*********
+2024-06-03 20:15:50 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 20:15:56 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-03 20:18:53 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-03 20:20:07 INFO  TicketNew:40 - ************ LaunchChromeBrowser*********
+2024-06-03 20:20:13 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 20:20:19 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-03 20:20:22 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-03 20:20:35 INFO  TicketNew:70 - ************User Movie verified*********
+2024-06-03 20:20:39 INFO  TicketNew:81 - ************Movie Date Selected Successfully*********
+2024-06-03 20:20:44 INFO  TicketNew:88 - ************User Movie Theatre and timing selected Successfully*********
+2024-06-03 20:20:50 INFO  TicketNew:100 - ************User seat selected Successfully*********
+2024-06-03 20:20:56 INFO  TicketNew:108 - ************Book Ticket button display*********
+2024-06-03 20:20:58 INFO  TicketNew:111 - ************?152.56*********
+2024-06-03 20:20:58 INFO  TicketNew:112 - ************Ticket 1 X ?152.56*********
+2024-06-03 20:29:43 INFO  TicketNew:40 - ************ LaunchChromeBrowser*********
+2024-06-03 20:29:49 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-03 20:29:54 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-03 20:29:57 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-03 20:30:14 INFO  TicketNew:72 - ************User Movie verified*********
+2024-06-03 20:30:18 INFO  TicketNew:83 - ************Movie Date Selected Successfully*********
+2024-06-03 20:30:22 INFO  TicketNew:90 - ************User Movie Theatre and timing selected Successfully*********
+2024-06-03 20:30:29 INFO  TicketNew:102 - ************User seat selected Successfully*********
+2024-06-03 20:30:34 INFO  TicketNew:110 - ************Book Ticket button display*********
+2024-06-03 20:30:36 INFO  TicketNew:113 - ************?152.56*********
+2024-06-03 20:30:36 INFO  TicketNew:114 - ************Ticket 1 X ?152.56*********

@@ -5,6 +5,7 @@
     <classes>
       <class name="testScriptPackage.TicketNewTestClass">
         <methods>
+          <include name="teardownMethod"/>
           <include name="bookTicketConfirmMethod"/>
           <include name="logger"/>
         </methods>

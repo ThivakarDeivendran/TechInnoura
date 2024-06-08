@@ -2,40 +2,40 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-03T10:37:05 IST" name="Suite" finished-at="2024-06-03T10:38:08 IST" duration-ms="62819">
+  <suite started-at="2024-06-03T20:29:38 IST" name="Default suite" finished-at="2024-06-03T20:30:42 IST" duration-ms="64028">
     <groups>
     </groups>
-    <test started-at="2024-06-03T10:37:05 IST" name="Test" finished-at="2024-06-03T10:38:08 IST" duration-ms="62819">
+    <test started-at="2024-06-03T20:29:38 IST" name="Default test" finished-at="2024-06-03T20:30:42 IST" duration-ms="64028">
       <class name="testScriptPackage.TicketNewTestClass">
-        <test-method is-config="true" signature="logger()[pri:0, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T10:37:05 IST" name="logger" finished-at="2024-06-03T10:37:05 IST" duration-ms="232" status="PASS">
+        <test-method is-config="true" signature="logger()[pri:0, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T20:29:37 IST" name="logger" finished-at="2024-06-03T20:29:38 IST" duration-ms="134" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logger -->
-        <test-method signature="titleMethod()[pri:1, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T10:37:06 IST" name="titleMethod" finished-at="2024-06-03T10:37:28 IST" duration-ms="21908" status="PASS">
+        <test-method signature="titleMethod()[pri:1, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T20:29:38 IST" name="titleMethod" finished-at="2024-06-03T20:29:54 IST" duration-ms="16595" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titleMethod -->
-        <test-method signature="chooseMovieMethod()[pri:2, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T10:37:28 IST" name="chooseMovieMethod" finished-at="2024-06-03T10:37:39 IST" duration-ms="11351" status="PASS">
+        <test-method signature="chooseMovieMethod()[pri:2, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T20:29:55 IST" name="chooseMovieMethod" finished-at="2024-06-03T20:30:14 IST" duration-ms="19006" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chooseMovieMethod -->
-        <test-method signature="MovieTheatreAndTimeMethod()[pri:3, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T10:37:39 IST" name="MovieTheatreAndTimeMethod" finished-at="2024-06-03T10:37:48 IST" duration-ms="9042" status="PASS">
+        <test-method signature="MovieTheatreAndTimeMethod()[pri:3, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T20:30:14 IST" name="MovieTheatreAndTimeMethod" finished-at="2024-06-03T20:30:22 IST" duration-ms="8822" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MovieTheatreAndTimeMethod -->
-        <test-method signature="SelectSeatMethod()[pri:4, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T10:37:48 IST" name="SelectSeatMethod" finished-at="2024-06-03T10:37:55 IST" duration-ms="6684" status="PASS">
+        <test-method signature="SelectSeatMethod()[pri:4, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T20:30:22 IST" name="SelectSeatMethod" finished-at="2024-06-03T20:30:29 IST" duration-ms="6443" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SelectSeatMethod -->
-        <test-method signature="bookTicketConfirmMethod()[pri:5, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T10:37:55 IST" name="bookTicketConfirmMethod" finished-at="2024-06-03T10:38:08 IST" duration-ms="13156" status="PASS">
+        <test-method signature="bookTicketConfirmMethod()[pri:5, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T20:30:29 IST" name="bookTicketConfirmMethod" finished-at="2024-06-03T20:30:42 IST" duration-ms="12844" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bookTicketConfirmMethod -->
-        <test-method is-config="true" signature="teardownMethod()[pri:0, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T10:38:09 IST" name="teardownMethod" finished-at="2024-06-03T10:38:12 IST" duration-ms="2082" status="PASS">
+        <test-method is-config="true" signature="teardownMethod()[pri:0, instance:testScriptPackage.TicketNewTestClass@36916eb0]" started-at="2024-06-03T20:30:43 IST" name="teardownMethod" finished-at="2024-06-03T20:30:45 IST" duration-ms="2027" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownMethod -->
       </class> <!-- testScriptPackage.TicketNewTestClass -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

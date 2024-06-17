@@ -85,3 +85,24 @@
 2024-06-03 20:30:34 INFO  TicketNew:110 - ************Book Ticket button display*********
 2024-06-03 20:30:36 INFO  TicketNew:113 - ************?152.56*********
 2024-06-03 20:30:36 INFO  TicketNew:114 - ************Ticket 1 X ?152.56*********
+2024-06-16 11:43:32 INFO  TicketNew:40 - ************ LaunchChromeBrowser*********
+2024-06-16 11:43:38 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-16 11:43:46 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-16 11:43:48 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-16 11:44:04 INFO  TicketNew:72 - ************User Movie verified*********
+2024-06-16 11:46:36 INFO  TicketNew:40 - ************ LaunchChromeBrowser*********
+2024-06-16 11:46:41 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-16 11:46:49 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-16 11:46:52 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-16 11:47:08 INFO  TicketNew:72 - ************User Movie verified*********
+2024-06-16 11:52:52 INFO  TicketNew:40 - ************ LaunchChromeBrowser*********
+2024-06-16 11:52:57 INFO  TicketNew:47 - ************ TicketNew Application launch*********
+2024-06-16 11:53:05 INFO  TicketNew:54 - ************ Application Title Verify SuccessFully*********
+2024-06-16 11:53:08 INFO  TicketNew:63 - ************User Movie Language Select successfully*********
+2024-06-16 11:53:24 INFO  TicketNew:72 - ************User Movie verified*********
+2024-06-16 11:53:28 INFO  TicketNew:83 - ************Movie Date Selected Successfully*********
+2024-06-16 11:53:33 INFO  TicketNew:90 - ************User Movie Theatre and timing selected Successfully*********
+2024-06-16 11:53:39 INFO  TicketNew:102 - ************User seat selected Successfully*********
+2024-06-16 11:53:44 INFO  TicketNew:110 - ************Book Ticket button display*********
+2024-06-16 11:53:46 INFO  TicketNew:113 - ************?152.56*********
+2024-06-16 11:53:46 INFO  TicketNew:114 - ************Ticket 1 X ?152.56*********

@@ -6,8 +6,10 @@
       <class name="testScriptPackage.TicketNewTestClass">
         <methods>
           <include name="teardownMethod"/>
+          <include name="SelectSeatMethod"/>
           <include name="bookTicketConfirmMethod"/>
           <include name="logger"/>
+          <include name="MovieTheatreAndTimeMethod"/>
         </methods>
       </class> <!-- testScriptPackage.TicketNewTestClass -->
     </classes>
